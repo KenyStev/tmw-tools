@@ -10,7 +10,7 @@
 branch=update-zips
 # must already exist
 # must NOT be a relative path
-output=~/www/updates
+output=/var/www/tmwupdates
 
 function apply_function()
 {
